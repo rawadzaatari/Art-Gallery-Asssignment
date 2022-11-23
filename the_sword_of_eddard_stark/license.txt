@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Sword Of Eddard Stark
+* source:	https://sketchfab.com/3d-models/the-sword-of-eddard-stark-7b91c2f5bcad4eab9787a74090038ea3
+* author:	sams_reverie (https://sketchfab.com/shaeesta)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Sword Of Eddard Stark" (https://sketchfab.com/3d-models/the-sword-of-eddard-stark-7b91c2f5bcad4eab9787a74090038ea3) by sams_reverie (https://sketchfab.com/shaeesta) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
