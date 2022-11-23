@@ -1,0 +1,11 @@
+Model Information:
+* title:	Statues of generals
+* source:	https://sketchfab.com/3d-models/statues-of-generals-db4bdb897b95456f98681242947d51a8
+* author:	inception4 (https://sketchfab.com/inception4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Statues of generals" (https://sketchfab.com/3d-models/statues-of-generals-db4bdb897b95456f98681242947d51a8) by inception4 (https://sketchfab.com/inception4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
