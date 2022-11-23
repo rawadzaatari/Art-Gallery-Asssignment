@@ -1,0 +1,11 @@
+Model Information:
+* title:	Obsidian Candle (Game of Thrones)
+* source:	https://sketchfab.com/3d-models/obsidian-candle-game-of-thrones-3f34c1074a104eddb094ed0ee14375dd
+* author:	Anthony Yanez (https://sketchfab.com/paulyanez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Obsidian Candle (Game of Thrones)" (https://sketchfab.com/3d-models/obsidian-candle-game-of-thrones-3f34c1074a104eddb094ed0ee14375dd) by Anthony Yanez (https://sketchfab.com/paulyanez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

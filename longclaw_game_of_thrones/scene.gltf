@@ -1,0 +1,669 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 970,
+      "max": [
+        57.6031608581543,
+        5.377056121826172,
+        15.893808364868164
+      ],
+      "min": [
+        -57.6031608581543,
+        -5.377056121826172,
+        -22.185739517211914
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11640,
+      "componentType": 5126,
+      "count": 970,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 970,
+      "max": [
+        1.1211622953414917,
+        1.020859956741333
+      ],
+      "min": [
+        -0.12116238474845886,
+        -0.00017941463738679886
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4128,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 23280,
+      "componentType": 5126,
+      "count": 844,
+      "max": [
+        8.331619262695313,
+        5.698711395263672,
+        138.468994140625
+      ],
+      "min": [
+        -8.331619262695313,
+        -5.698718070983887,
+        15.893806457519531
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33408,
+      "componentType": 5126,
+      "count": 844,
+      "max": [
+        0.9683573842048645,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9683573842048645,
+        -1.0,
+        -0.508547842502594
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7760,
+      "componentType": 5126,
+      "count": 844,
+      "max": [
+        1.1260145902633667,
+        1.020859956741333
+      ],
+      "min": [
+        -0.12601463496685028,
+        0.7012417316436768
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16512,
+      "componentType": 5125,
+      "count": 2748,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 43536,
+      "componentType": 5126,
+      "count": 773,
+      "max": [
+        9.140796661376953,
+        10.886970520019531,
+        147.61093139648438
+      ],
+      "min": [
+        -9.140796661376953,
+        -14.22932243347168,
+        93.05103302001953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52812,
+      "componentType": 5126,
+      "count": 773,
+      "max": [
+        0.9925717711448669,
+        0.9989662170410156,
+        0.9998522400856018
+      ],
+      "min": [
+        -0.9925717115402222,
+        -0.9998377561569214,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 773,
+      "max": [
+        0.9915799498558044,
+        0.9999892115592957,
+        0.5172508358955383,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999891519546509,
+        -0.9999820590019226,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14512,
+      "componentType": 5126,
+      "count": 773,
+      "max": [
+        1.0803272724151611,
+        1.020859956741333
+      ],
+      "min": [
+        -0.0803261399269104,
+        0.667077898979187
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 27504,
+      "componentType": 5125,
+      "count": 3630,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 62088,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        7.331740856170654,
+        4.5941162109375,
+        138.89401245117188
+      ],
+      "min": [
+        -7.331740856170654,
+        1.4880528450012207,
+        137.3078155517578
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 63528,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9537392854690552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20696,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        0.1885005682706833,
+        0.9668422341346741
+      ],
+      "min": [
+        0.15978823602199554,
+        0.699824333190918
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 42024,
+      "componentType": 5125,
+      "count": 432,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 64968,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        15.0,
+        2.3247809410095215,
+        -2.68585205078125
+      ],
+      "min": [
+        -15.0,
+        -2.324795722961426,
+        -507.0256652832031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 66072,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.11120345443487167
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 12368,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        1.0,
+        1.0,
+        0.026218630373477936,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.02621801197528839,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 21656,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        0.6492537260055542,
+        1.0
+      ],
+      "min": [
+        0.34925368428230286,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 43752,
+      "componentType": 5125,
+      "count": 150,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Anthony Yanez (https://sketchfab.com/paulyanez)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/longclaw-game-of-thrones-b8a403c0696e4b15925bfb40bddf0035",
+      "title": "Longclaw (Game of thrones)"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 44352,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22392,
+      "byteOffset": 44352,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67176,
+      "byteOffset": 66744,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13840,
+      "byteOffset": 133920,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 147760,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/02_-_Default_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/08_-_Default_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/08_-_Default_normal.png"
+    },
+    {
+      "uri": "textures/03_-_Default_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/03_-_Default_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "02_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.9109331998,
+        "roughnessFactor": 0.42240013350000005
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "07_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "08_-_Default",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "09_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.513726,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.8382059271,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "03_-_Default",
+      "normalTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "roughnessFactor": 0.7193698305
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Longclaw_02 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Longclaw_07 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Longclaw_08 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Longclaw_09 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 16,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Longclaw_03 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TANGENT": 19,
+            "TEXCOORD_0": 20
+          },
+          "indices": 21,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.09418255090713501,
+        0.860683560371399,
+        -0.5003533363342283,
+        0.0,
+        -0.40231215953826904,
+        -0.426818400621414,
+        -0.809920370578766,
+        0.0,
+        -0.9106451272964478,
+        0.277578592300415,
+        0.30606463551521307,
+        0.0,
+        25.135175704956055,
+        12.987691879272463,
+        -4.905004024505613,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Longclaw.FBX"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        3.2643637657165527,
+        211.42608642578125,
+        15.000009536743164,
+        1.0
+      ],
+      "name": "Longclaw"
+    },
+    {
+      "mesh": 0,
+      "name": "Longclaw_02 - Default_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Longclaw_07 - Default_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Longclaw_08 - Default_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Longclaw_09 - Default_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Longclaw_03 - Default_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}
