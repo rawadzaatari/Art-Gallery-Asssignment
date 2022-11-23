@@ -1,0 +1,399 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3826,
+      "max": [
+        535.4785766601563,
+        547.349609375,
+        21.672134399414063
+      ],
+      "min": [
+        -535.4785766601563,
+        -547.349609375,
+        -2.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45912,
+      "componentType": 5126,
+      "count": 3826,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3826,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3826,
+      "max": [
+        1.2887418270111084,
+        0.40940144658088684
+      ],
+      "min": [
+        0.45011404156684875,
+        0.004234927240759134
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 15120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 91824,
+      "componentType": 5126,
+      "count": 214,
+      "max": [
+        580.3092651367188,
+        609.392822265625,
+        18.33416175842285
+      ],
+      "min": [
+        -580.3092651367188,
+        -609.392822265625,
+        1.337971806526184
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 94392,
+      "componentType": 5126,
+      "count": 214,
+      "max": [
+        0.9966376423835754,
+        1.0,
+        0.9907494783401489
+      ],
+      "min": [
+        -0.9966376423835754,
+        -1.0,
+        -0.9907494783401489
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 61216,
+      "componentType": 5126,
+      "count": 214,
+      "max": [
+        -0.0801379457116127,
+        0.9967838525772095,
+        0.2995982766151428,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9967838525772095,
+        -0.2995990812778473,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 30608,
+      "componentType": 5126,
+      "count": 214,
+      "max": [
+        0.9979999661445618,
+        0.9959678649902344
+      ],
+      "min": [
+        0.0019999872893095016,
+        0.6184492111206055
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60480,
+      "componentType": 5125,
+      "count": 672,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Anthony Yanez (https://sketchfab.com/paulyanez)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/aegons-crown-game-of-thrones-4ade799e007e467a99261f6097a0c041",
+      "title": "Aegon's Crown (Game of Thrones)"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 63168,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32320,
+      "byteOffset": 63168,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96960,
+      "byteOffset": 95488,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64640,
+      "byteOffset": 192448,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 257088,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Crown_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Crown_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Crown",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 0
+      },
+      "name": "Ruby",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.6865151607629024
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Aegon's Crown_Crown_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Aegon's Crown_Ruby_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Aegon's Crown.FBX"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        1.3773250579833984,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.0582759835326954e-16,
+        -1.3773250579833984,
+        0.0,
+        0.0,
+        15.501066207885742,
+        3.441928122046743e-15,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Aegon's Crown"
+    },
+    {
+      "mesh": 0,
+      "name": "Aegon's Crown_Crown_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Aegon's Crown_Ruby_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
