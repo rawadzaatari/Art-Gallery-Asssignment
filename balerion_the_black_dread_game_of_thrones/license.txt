@@ -1,0 +1,11 @@
+Model Information:
+* title:	Balerion The Black Dread (Game of Thrones)
+* source:	https://sketchfab.com/3d-models/balerion-the-black-dread-game-of-thrones-74af608f60f040c8a0aee5c6eb681bd2
+* author:	Anthony Yanez (https://sketchfab.com/paulyanez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Balerion The Black Dread (Game of Thrones)" (https://sketchfab.com/3d-models/balerion-the-black-dread-game-of-thrones-74af608f60f040c8a0aee5c6eb681bd2) by Anthony Yanez (https://sketchfab.com/paulyanez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
